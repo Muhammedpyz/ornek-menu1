@@ -15,12 +15,6 @@ Basit, şık ve responsive bir menü tasarımı. HTML, CSS ve JavaScript kullan�
 - CSS3
 - JavaScript (Vanilla JS)
 
-## 📸 Ekran Görüntüsü
-
-![Ekran Görüntüsü](https://github.com/Muhammedpyz/ornek-menu1/raw/main/screenshot.png)
-
-> **Not:** `screenshot.png` dosyasını projenin kök dizinine eklemeyi unutma.
-
 ## 🛠️ Kurulum
 
 Projeyi klonlayarak kullanmaya başlayabilirsin:
